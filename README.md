@@ -1,0 +1,1 @@
+This is the odin-recipes project from The Odin Project. I will describe here what I learned after completing the project
